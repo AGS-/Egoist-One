@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Language="en-US" Id="Egoist-One" Version="1.0.0" Publisher="Zyst"/>
-    <DisplayName>Egoist One</DisplayName>
+    <Identity Language="en-US" Id="Ags-One" Version="1.0.0" Publisher="AGS-"/>
+    <DisplayName>Ags One</DisplayName>
     <Description xml:space="preserve">Fork of Binarify/OneDark-Pro customized to my taste</Description>
     <Tags>vscode</Tags>
     <Categories>Themes</Categories>
